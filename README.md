@@ -1,9 +1,13 @@
 # chat_app
 
+Rename the _.env.ex_ to _.env_ and set each application's IP address.
+
 ## Client
-- `yarn`
-- `yarn dev`
+
+-   `npm i`
+-   `npm run dev`
 
 ## Server
-- `yarn`
-- `yarn dev`
+
+-   `npm i`
+-   `npm run dev`
